@@ -1,7 +1,7 @@
 # //////////////////////////////
 # VARIABLES
 # //////////////////////////////
-variable "aws_access_key" {}
+variable "aws_access_key" {12312}
 
 variable "aws_secret_key" {}
 
